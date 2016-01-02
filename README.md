@@ -2,7 +2,7 @@
 
 TomEE est le stack Apache couvrant presque au complet la spécification Java EE 6 et dont les composants incluent OpenEJB, ActiveMQ, CXF, MyFaces, OpenJPA, OpenWebBeans et, bien sûr, Tomcat. L’objectif affiché du projet est de pouvoir profiter de toute la puissance des différents composants du stack Java EE mais en gardant comme base une serveur d’application simple et performant comme Tomcat.
 
-PPT contient : 
+#PPT contient : 
 1- Comprendre ce qu’est TomEE
 
 2- Philosophie 
@@ -17,7 +17,7 @@ PPT contient :
 
 7- Demo "Hello World" Or "Hello Cnamiens :) "
 
-
+#links
 Demo Youtube Link : 
 https://youtu.be/ZMmFo-IKBVc
 
@@ -29,7 +29,7 @@ http://tomee.apache.org/downloads.html
 
 
 
-Les étapes de "Hello World":
+#Les étapes de "Hello World":
 
 1- Télécharger TomEE : http://tomee.apache.org/downloads.html
 
